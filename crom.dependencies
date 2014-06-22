@@ -1,9 +1,9 @@
 [
   {
-    "remote": "cm",
+    "remote": "crm",
     "repository": "android_device_htc_m7-common",
     "target_path": "device/htc/m7-common",
-    "revision": "cm-11.0"
+    "revision": "kitkat"
   },
   {
     "remote": "cm",
